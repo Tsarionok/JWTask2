@@ -1,0 +1,11 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œéÈşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸‘²
+nsquid:UselessImportCheck
+"ERemove this unused import 'by.training.epam.dao.TaskSevenComparator'.(¶–Ø€ÿÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+isquid:UselessImportCheck	"ERemove this unused import 'by.training.epam.dao.TaskEightComparator'.(ş²Åı
