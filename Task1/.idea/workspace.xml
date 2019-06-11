@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc4df07-d779-475f-bc2d-97fabb37c71b" name="Default Changelist" comment="copied from other directories">
-      <change afterPath="$PROJECT_DIR$/src/main/java/firsttask/dao/TravelCompanyDao.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bc4df07-d779-475f-bc2d-97fabb37c71b" name="Default Changelist" comment="copied from other repositories" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +84,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/firsttask/dao/TravelCompanyDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="367">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -196,6 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -249,7 +251,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560203229474</updated>
-      <workItem from="1560203234581" duration="2789000" />
+      <workItem from="1560203234581" duration="3751000" />
     </task>
     <task id="LOCAL-00001" summary="copied from other directories">
       <created>1560204244711</created>
@@ -269,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2789000" />
+    <option name="totallyTimeSpent" value="3751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -419,8 +421,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/firsttask/dao/TravelCompanyDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="367">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
